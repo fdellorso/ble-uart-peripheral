@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/lib/modules/4.15.0-72-generic/build/include",
+                "/lib/modules/4.15.0-72-generic/build/arch/x86/include",
+                "/usr/src/linux-headers-4.15.0-72/include/uapi"
+            ],
+            "defines": [
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
